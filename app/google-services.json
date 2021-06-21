@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12662714734",
+    "project_id": "pemesanan-tiket-wisata",
+    "storage_bucket": "pemesanan-tiket-wisata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12662714734:android:33cb3f9f3faeecd7d7d17f",
+        "android_client_info": {
+          "package_name": "com.example.pemesanantiketwisata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12662714734-j7la85isv8og9m6n25cb17ud5d36vlq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3irrAAAMuOxF9KlH9OupwlqUeXUbDmyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12662714734-j7la85isv8og9m6n25cb17ud5d36vlq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
